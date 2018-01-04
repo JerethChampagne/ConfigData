@@ -1,3 +1,4 @@
 ---
 
-luckyWord:'Me'
+lucky:
+  word:'Me'
