@@ -1,4 +1,4 @@
 ---
 wordConfig:
-  luckyWord: "Dis_word_lucky"
-  preamble: "The lucky word is:"
+  luckyWord: "newLucky"
+  preamble: "The lucky word is"
